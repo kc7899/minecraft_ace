@@ -1,0 +1,79 @@
+---- Minecraft Crash Report ----
+// Don't be sad. I'll do better next time, I promise!
+
+Time: 15-2-20 上午9:31
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: net/minecraft/client/renderer/entity/Render
+	at aom.AOM.<clinit>(AOM.java:116)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:420)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:208)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:187)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:118)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:491)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:313)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:166)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:607)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.Render
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:188)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 31 more
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at invtweaks.forge.asm.ContainerTransformer.transform(ContainerTransformer.java:112)
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:276)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:174)
+	... 33 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.2
+	Operating System: Windows XP (x86) version 5.1
+	Java Version: 1.7.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 939960120 bytes (896 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 2 total; -Xms1g -Xmx1g
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.03 FML v7.2.217.1147 Minecraft Forge 10.12.2.1147 11 mods loaded, 11 mods active
+	mcp{9.03} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed
+	FML{7.2.217.1147} [Forge Mod Loader] (cauldron-1.7.2-1.1147.04.98-server.jar) Unloaded->Constructed
+	Forge{10.12.2.1147} [Minecraft Forge] (cauldron-1.7.2-1.1147.04.98-server.jar) Unloaded->Constructed
+	flammpfeil.slashblade.asm{mc1.7.10 r15} [SlashBladeAsm] ([拔刀剑]拔刀剑.jar) Unloaded->Constructed
+	cfm{3.2.9.2} [§6MrCrayfish's Furniture Mod] (1.7.2家具MOD.jar) Unloaded->Constructed
+	flammpfeil.slashblade{mc1.7.10 r15} [SlashBlade] ([拔刀剑]拔刀剑.jar) Unloaded->Constructed
+	craftguide{1.6.8.1} [CraftGuide] (CraftGuide-1.6.8.1.zip) Unloaded->Constructed
+	inventorytweaks{1.57-116} [Inventory Tweaks] (InventoryTweaks-1.57-116.jar) Unloaded->Constructed
+	ether{3.0} [ether] (The-Ether-Mod-1.7.2.jar) Unloaded
+	BambooMod{Minecraft1.7.2 ver2.6.4.8} [BambooMod] (我的世界1.7.2竹(和风)mod.zip) Unloaded
+	FLabsBF{4.1.1} [Better Furnaces] (更好的熔炉%5DBetter_Furnaces_V4.1.1.jar) Unloaded
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'cauldron,craftbukkit,mcpc,fml,forge'
+	Type: Dedicated Server (map_server.txt)

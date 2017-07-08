@@ -1,0 +1,855 @@
+[12:59:08] [main/INFO] [FML/]: Forge Mod Loader version 7.2.217.1147 for Minecraft 1.7.2 loading
+[12:59:09] [main/INFO] [FML/]: Java is Java HotSpot(TM) Client VM, version 1.7.0_45, running on Windows XP:x86:5.1, installed at C:\Documents and Settings\Administrator\My Documents\Java\jre7
+[12:59:09] [main/WARN] [FML/]: The coremod mods.flammpfeil.slashblade.asm.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:59:09] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:59:09] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[12:59:09] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:59:09] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:59:09] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:59:11] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:59:11] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:59:11] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:59:16] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[12:59:16] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[12:59:18] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[12:59:18] [Server thread/INFO] [FML/]: MinecraftForge v10.12.2.1147 Initialized
+[12:59:18] [Server thread/INFO] [FML/]: Replaced 182 ore recipies
+[12:59:18] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[12:59:18] [Server thread/INFO] [FML/]: Searching E:\我的文档\自制RPG音乐\1.7.2MCPC\1.7.2MCPC服务端\mods for mods
+[12:59:19] [Server thread/INFO] [FML/]: Attempting to reparse the mod container Mcmap.cc-%5B拓展工作台%5D%5B1.7.2%5D.jar
+[12:59:19] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 11 mods to load
+[12:59:19] [Server thread/INFO] [FML/]: FML has found a non-mod file Modern Warfare-Content Pack-1.7.10-4.7.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[12:59:20] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[12:59:20] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[12:59:20] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[12:59:21] [Server thread/WARN] [/customnpcs]: ScriptEngineManager providers.next(): javax.script.ScriptEngineFactory: Provider scala.tools.nsc.interpreter.IMain$Factory not found
+[12:59:21] [Server thread/INFO] [/customnpcs]: Script Engings Available:
+[12:59:21] [Server thread/INFO] [/customnpcs]: ECMAScript: .js
+[12:59:21] [Server thread/INFO] [FML/]: Applying holder lookups
+[12:59:21] [Server thread/INFO] [FML/]: Holder lookups applied
+[12:59:22] [Server thread/INFO] [Minecraft/]: This server is running Cauldron-MCPC-Plus version git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98 (MC: 1.7.2) (Implementing API version 1.7.2-R0.4-SNAPSHOT)
+[12:59:22] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[12:59:22] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[12:59:22] [Server thread/INFO] [FML/lootbags]: Added Blacklist item: 1xitem.lootbag@0
+[12:59:22] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 11 mods
+[12:59:23] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[12:59:23] [Server thread/INFO] [FML/]: Applying holder lookups
+[12:59:23] [Server thread/INFO] [FML/]: Holder lookups applied
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCREDSTONEBLOCK with ID 165.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCCARPENTYBENCH with ID 166.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCMAILBOX with ID 167.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCWAYPOINT with ID 168.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCBLOODBLOCK with ID 169.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCBANNER with ID 176.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCWALLBANNER with ID 177.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCTALLLAMP with ID 178.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCCHAIR with ID 179.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCCRATE with ID 180.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCWEAPONRACK with ID 181.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCCOUCHWOOL with ID 182.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCCOUCHWOOD with ID 183.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCTABLE with ID 184.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCBORDER with ID 185.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCSTOOL with ID 186.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCPLACEHOLDER with ID 187.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCBIGSIGN with ID 188.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCBARREL with ID 189.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCTOMBSTONE with ID 190.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCSHELF with ID 191.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCSIGN with ID 192.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCBEAM with ID 193.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCBOOK with ID 194.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCPEDESTAL with ID 195.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCCRYSTALBLOCK with ID 196.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCCAMPFIRE with ID 197.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCLAMP with ID 198.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCCANDLE with ID 199.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCCAMPFIREUNLIT with ID 200.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCLAMPUNLIT with ID 201.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material CUSTOMNPCS_NPCCANDLEUNLIT with ID 202.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material EXTENDEDWORKBENCH_EXTENDEDFIRE with ID 203.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material IRONCHEST_BLOCKIRONCHEST with ID 204.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_BAMBOO with ID 205.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_SINGLETEXDECO with ID 206.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_KITUNEBI with ID 207.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_JPCHEST with ID 208.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_DIRSQUARE with ID 209.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_HALFDIRSQUARE with ID 210.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_ANDON with ID 211.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_BAMBOOPANEL with ID 212.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_SAKURALEAVES with ID 213.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_SAKURASAPLING with ID 214.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_KAYABUKIROOF with ID 215.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_SPAWATER with ID 216.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_SPAUNIT with ID 217.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_SAKURALOG with ID 218.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_DELUDE_WIDTH with ID 219.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_DELUDE_HEIGHT with ID 220.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_DELUDE_STAIR with ID 221.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_CAMPFIRE with ID 222.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_DECO with ID 223.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_HALFDECO with ID 224.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_TWODIRDECO with ID 225.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_HALFTWODIRDECO with ID 226.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_KAWARA_STAIR with ID 227.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_WARA_STAIR with ID 228.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_DECOCARPET with ID 229.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_THICKSAKURAPILLAR with ID 230.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_THINSAKURAPILLAR with ID 231.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_THICKORCPILLAR with ID 232.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_THINORCPILLAR with ID 233.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_THICKSPRUCEPILLAR with ID 234.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_THINSPRUCEPILLAR with ID 235.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_DELUDE_PLATE with ID 236.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_RICEPLANT with ID 237.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_BAMBOOMILLSTONE with ID 238.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material BAMBOOMOD_MANEKI with ID 239.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_GATEAUCHOCOBLOCK with ID 240.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_CHOCOSTAIRS with ID 241.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_GATEAUCAROTTEBLOCK with ID 242.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_CHOCOBLOC with ID 243.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_CARAM with ID 244.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_CHEESECAKEBLOCK with ID 245.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_COCOBLOC with ID 246.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_BRICKSUCRE with ID 247.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_CROPVIGNE with ID 248.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_POUSSECOCOTIER with ID 249.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_MACHINEGLACES with ID 250.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_TARTETATINBLOCK with ID 251.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_CARAMFENCE with ID 252.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_SUGARFENCE with ID 253.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_CROPPIMENT with ID 254.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_CHOCOFENCE with ID 255.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_SUGARSTAIRS with ID 409.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_CARAMSTAIRS with ID 410.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge block material LOTSOFFOOD_ALGUEBLOC with ID 411.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEIL_SLASHBLADE_PROUDSOUL with ID 4096.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEIL_SLASHBLADE_SLASHBLADE with ID 4097.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEIL_SLASHBLADE_SLASHBLADEWOOD with ID 4098.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEIL_SLASHBLADE_SLASHBLADEBAMBOOLIGHT with ID 4099.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEIL_SLASHBLADE_SLASHBLADESILVERBAMBOOLIGHT with ID 4100.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEIL_SLASHBLADE_SLASHBLADEWHITE with ID 4101.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEIL_SLASHBLADE_SLASHBLADEWRAPPER with ID 4102.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEIL_SLASHBLADE_SLASHBLADENAMED with ID 4103.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWAND with ID 4104.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCMOBCLONER with ID 4105.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSCRIPTER with ID 4106.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCMOVINGPATH with ID 4107.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCMOUNTER with ID 4108.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCTELEPORTER with ID 4109.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENGUN with ID 4110.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENBULLET with ID 4111.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONEGUN with ID 4112.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONEBULLET with ID 4113.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONGUN with ID 4114.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONBULLET with ID 4115.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDGUN with ID 4116.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENBULLET with ID 4117.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDGUN with ID 4118.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDBULLET with ID 4119.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZEGUN with ID 4120.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZEBULLET with ID 4121.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDGUN with ID 4122.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDBULLET with ID 4123.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCMACHINEGUN with ID 4124.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBLACKBULLET with ID 4125.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENTRIDENT with ID 4126.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONETRIDENT with ID 4127.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONTRIDENT with ID 4128.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDTRIDENT with ID 4129.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDTRIDENT with ID 4130.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZETRIDENT with ID 4131.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDTRIDENT with ID 4132.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCURSEDTRIDENT with ID 4133.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICTRIDENT with ID 4134.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTTRIDENT with ID 4135.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCNATURESPELL with ID 4136.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCARCANESPELL with ID 4137.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCLIGHTNINGSPELL with ID 4138.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCICESPELL with ID 4139.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFIRESPELL with ID 4140.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDARKSPELL with ID 4141.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCHOLYSPELL with ID 4142.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCORB with ID 4143.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCMANA with ID 4144.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBROKENORB with ID 4145.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCKUNAI with ID 4146.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCREVERSEKUNAI with ID 4147.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSHURIKEN with ID 4148.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGIANTSHURIKEN with ID 4149.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCKATANA with ID 4150.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCKUKRI with ID 4151.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZESWORD with ID 4152.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDSWORD with ID 4153.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICSWORD with ID 4154.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTSWORD with ID 4155.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLFCLUB with ID 4156.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCMAGICWAND with ID 4157.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCHICKENSWORD with ID 4158.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCHANDCUFFS with ID 4159.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCHAMMER with ID 4160.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBASEBALLBAT with ID 4161.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCLEADPIPE with ID 4162.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCLEAVER with ID 4163.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSABER with ID 4164.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCHOCKEYSTICK with ID 4165.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSLEDGEHAMMER with ID 4166.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBROKENBOTTLE with ID 4167.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOMBATKNIVE with ID 4168.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCMACUAHUITL with ID 4169.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBOSTAFF with ID 4170.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSAIBLADE with ID 4171.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSLINGSHOT with ID 4172.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCMUSKET with ID 4173.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCLEAFBLADE with ID 4174.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCROSSBOW with ID 4175.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCROSSBOLT with ID 4176.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBATTON with ID 4177.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGUNCHAINSAW with ID 4178.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCRAPIER with ID 4179.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCROWBAR with ID 4180.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCPIPEWRENCH with ID 4181.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSWISSARMYKNIFE with ID 4182.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWRENCH with ID 4183.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEXCALIBUR with ID 4184.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENSHIELD with ID 4185.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONESHIELD with ID 4186.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONSHIELD with ID 4187.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENSHIELD with ID 4188.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIASHIELD with ID 4189.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZESHIELD with ID 4190.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDSHIELD with ID 4191.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICSHIELD with ID 4192.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTSHIELD with ID 4193.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLWOODENSHIELD with ID 4194.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLSTONESHIELD with ID 4195.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLIRONSHIELD with ID 4196.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLGOLDENSHIELD with ID 4197.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLDIASHIELD with ID 4198.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLBRONZESHIELD with ID 4199.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLEMERALDSHIELD with ID 4200.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCHEATERSHIELD with ID 4201.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCRYSCENTSHIELD with ID 4202.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSCUTUMSHIELD with ID 4203.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCTOWERSHIELD with ID 4204.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENSPEAR with ID 4205.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONESPEAR with ID 4206.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONSPEAR with ID 4207.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENSPEAR with ID 4208.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDSPEAR with ID 4209.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZESPEAR with ID 4210.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDSPEAR with ID 4211.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICSPEAR with ID 4212.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTSPEAR with ID 4213.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENHALBERD with ID 4214.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONEHALBERD with ID 4215.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONHALBERD with ID 4216.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENHALBERD with ID 4217.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDHALBERD with ID 4218.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZEHALBERD with ID 4219.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDHALBERD with ID 4220.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICHALBERD with ID 4221.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTHALBERD with ID 4222.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENBATTLEAXE with ID 4223.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONEBATTLEAXE with ID 4224.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONBATTLEAXE with ID 4225.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENBATTLEAXE with ID 4226.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDBATTLEAXE with ID 4227.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZEBATTLEAXE with ID 4228.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDBATTLEAXE with ID 4229.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICBATTLEAXE with ID 4230.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTBATTLEAXE with ID 4231.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENWARHAMMER with ID 4232.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONEWARHAMMER with ID 4233.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONWARHAMMER with ID 4234.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENWARHAMMER with ID 4235.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDWARHAMMER with ID 4236.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZEWARHAMMER with ID 4237.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDWARHAMMER with ID 4238.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICWARHAMMER with ID 4239.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTWARHAMMER with ID 4240.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENMACE with ID 4241.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONEMACE with ID 4242.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONMACE with ID 4243.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENMACE with ID 4244.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDMACE with ID 4245.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZEMACE with ID 4246.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDMACE with ID 4247.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICMACE with ID 4248.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTMACE with ID 4249.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENDAGGER with ID 4250.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENREVERSEDDAGGER with ID 4251.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONEDAGGER with ID 4252.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONEREVERSEDDAGGER with ID 4253.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONDAGGER with ID 4254.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONREVERSEDDAGGER with ID 4255.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENDAGGER with ID 4256.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENREVERSEDDAGGER with ID 4257.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDDAGGER with ID 4258.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDREVERSEDDAGGER with ID 4259.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZEDAGGER with ID 4260.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZEREVERSEDDAGGER with ID 4261.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDDAGGER with ID 4262.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDREVERSEDDAGGER with ID 4263.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICDAGGER with ID 4264.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICREVERSEDDAGGER with ID 4265.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTDAGGER with ID 4266.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTREVERSEDDAGGER with ID 4267.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCNINJACLAW with ID 4268.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTEELCLAW with ID 4269.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBEARCLAW with ID 4270.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCKATAR with ID 4271.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENSTAFF with ID 4272.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONESTAFF with ID 4273.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONSTAFF with ID 4274.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENSTAFF with ID 4275.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDSTAFF with ID 4276.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZESTAFF with ID 4277.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDSTAFF with ID 4278.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICSTAFF with ID 4279.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTSTAFF with ID 4280.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCELEMENTALSTAFF with ID 4281.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENSCYTHE with ID 4282.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONESCYTHE with ID 4283.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONSCYTHE with ID 4284.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENSCYTHE with ID 4285.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDSCYTHE with ID 4286.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDSCYTHE with ID 4287.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZESCYTHE with ID 4288.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICSCYTHE with ID 4289.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTSCYTHE with ID 4290.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWOODENGLAIVE with ID 4291.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTONEGLAIVE with ID 4292.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONGLAIVE with ID 4293.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDENGLAIVE with ID 4294.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDGLAIVE with ID 4295.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZEGLAIVE with ID 4296.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEMERALDGLAIVE with ID 4297.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICGLAIVE with ID 4298.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFROSTGLAIVE with ID 4299.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOWLEATHERHEAD with ID 4300.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOWLEATHERCHEST with ID 4301.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOWLEATHERLEGS with ID 4302.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOWLEATHERBOOTS with ID 4303.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCNANORUMHEAD with ID 4304.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCNANORUMCHEST with ID 4305.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCNANORUMLEGS with ID 4306.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCNANORUMBOOTS with ID 4307.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCTACTICALHEAD with ID 4308.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCTACTICALCHEST with ID 4309.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLLEATHERHEAD with ID 4310.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLLEATHERCHEST with ID 4311.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLIRONHEAD with ID 4312.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLIRONCHEST with ID 4313.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLGOLDHEAD with ID 4314.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLGOLDCHEST with ID 4315.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLDIAMONDHEAD with ID 4316.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLDIAMONDCHEST with ID 4317.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLBRONZEHEAD with ID 4318.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLBRONZECHEST with ID 4319.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLBRONZELEGGINGS with ID 4320.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLBRONZEBOOTS with ID 4321.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLEMERALDHEAD with ID 4322.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLEMERALDCHEST with ID 4323.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLEMERALDLEGGINGS with ID 4324.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLEMERALDBOOTS with ID 4325.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLWOODENHEAD with ID 4326.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLWOODENCHEST with ID 4327.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLWOODENLEGGINGS with ID 4328.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFULLWOODENBOOTS with ID 4329.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCTUXEDOCHEST with ID 4330.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCTUXEDOPANTS with ID 4331.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCTUXEDOBOTTOM with ID 4332.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWIZARDHEAD with ID 4333.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWIZARDCHEST with ID 4334.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWIZARDPANTS with ID 4335.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCASSASSINHEAD with ID 4336.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCASSASSINCHEST with ID 4337.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCASSASSINLEGGINGS with ID 4338.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCASSASSINBOOTS with ID 4339.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSOLDIERHEAD with ID 4340.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSOLDIERCHEST with ID 4341.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSOLDIERLEGS with ID 4342.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSOLDIERBOTTOM with ID 4343.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCX407HEAD with ID 4344.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCX407CHEST with ID 4345.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCX407LEGS with ID 4346.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCX407BOOTS with ID 4347.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOMMISSARHEAD with ID 4348.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOMMISSARCHEST with ID 4349.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOMMISSARLEGS with ID 4350.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOMMISSARBOTTOM with ID 4351.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCINFANTRYHELMET with ID 4352.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCOFFICERCHEST with ID 4353.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCROWN2 with ID 4354.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCROWN with ID 4355.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCPAPERCROWN with ID 4356.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCNINJAHEAD with ID 4357.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCNINJACHEST with ID 4358.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCNINJAPANTS with ID 4359.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCHAINSKIRT with ID 4360.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCLEATHERSKIRT with ID 4361.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGOLDSKIRT with ID 4362.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCIRONSKIRT with ID 4363.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDIAMONDSKIRT with ID 4364.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBANJO with ID 4365.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCVIOLIN with ID 4366.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCVIOLINBOW with ID 4367.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCHARP with ID 4368.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCGUITAR with ID 4369.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFRENCHHORN with ID 4370.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCOCARINA with ID 4371.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCLARINET with ID 4372.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOINWOODEN with ID 4373.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOINSTONE with ID 4374.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOINBRONZE with ID 4375.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOINIRON with ID 4376.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOINGOLD with ID 4377.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOINDIAMOND with ID 4378.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCOINEMERALD with ID 4379.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCANCIENTCOIN with ID 4380.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCLETTER with ID 4381.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCPLANS with ID 4382.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSATCHEL with ID 4383.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBAG with ID 4384.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCRYSTAL with ID 4385.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSEVEREDEAR with ID 4386.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCPHONE with ID 4387.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBANDITMASK with ID 4388.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBROKENARROW with ID 4389.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCEARTHELEMENT with ID 4390.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCWATERELEMENT with ID 4391.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCFIREELEMENT with ID 4392.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCAIRELEMENT with ID 4393.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCCARKEY with ID 4394.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCKEY with ID 4395.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCKEY2 with ID 4396.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCPENDANT with ID 4397.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBLUEPRINT with ID 4398.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCRING with ID 4399.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSKULL with ID 4400.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSAPHIRE with ID 4401.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCRUBY with ID 4402.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCAMETHYST with ID 4403.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCBRONZEINGOT with ID 4404.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCDEMONICINGOT with ID 4405.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCANCIENTSCROLL with ID 4406.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCARTIFACT with ID 4407.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCLOCKET with ID 4408.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSILK with ID 4409.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCSTATUETTE with ID 4410.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material CUSTOMNPCS_NPCTABLET with ID 4411.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL00 with ID 4412.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL10 with ID 4413.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL20 with ID 4414.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL30 with ID 4415.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL40 with ID 4416.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL01 with ID 4417.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL11 with ID 4418.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL21 with ID 4419.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL31 with ID 4420.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL41 with ID 4421.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL02 with ID 4422.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL12 with ID 4423.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL22 with ID 4424.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL32 with ID 4425.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL42 with ID 4426.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL03 with ID 4427.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL13 with ID 4428.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL23 with ID 4429.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL33 with ID 4430.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL43 with ID 4431.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL04 with ID 4432.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL14 with ID 4433.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL24 with ID 4434.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL34 with ID 4435.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_TOOL44 with ID 4436.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_BOW with ID 4437.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_FISHINGROD with ID 4438.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_FLINTANDSTEEL with ID 4439.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_SHEARS with ID 4440.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_MAP_EMPTY with ID 4441.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_MAP with ID 4442.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_COMPASS with ID 4443.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR00 with ID 4444.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR01 with ID 4445.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR02 with ID 4446.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR03 with ID 4447.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR20 with ID 4448.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR21 with ID 4449.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR22 with ID 4450.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR23 with ID 4451.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR30 with ID 4452.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR31 with ID 4453.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR32 with ID 4454.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR33 with ID 4455.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR40 with ID 4456.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR41 with ID 4457.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR42 with ID 4458.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material EXTENDEDWORKBENCH_ARMOR43 with ID 4459.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material IRONCHEST_IRONGOLDUPGRADE with ID 4460.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material IRONCHEST_GOLDDIAMONDUPGRADE with ID 4461.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material IRONCHEST_COPPERSILVERUPGRADE with ID 4462.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material IRONCHEST_SILVERGOLDUPGRADE with ID 4463.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material IRONCHEST_COPPERIRONUPGRADE with ID 4464.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material IRONCHEST_DIAMONDCRYSTALUPGRADE with ID 4465.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material IRONCHEST_WOODIRONUPGRADE with ID 4466.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material IRONCHEST_WOODCOPPERUPGRADE with ID 4467.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material IRONCHEST_DIAMONDOBSIDIANUPGRADE with ID 4468.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_BAMBOOBASKET with ID 4469.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_FIRECRACKER with ID 4470.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_BAMBOOFOOD with ID 4471.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_BAMBOOSPEAR with ID 4472.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_SLIDEDOOR with ID 4473.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_KAKEZIKU with ID 4474.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_HUTON with ID 4475.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_BAMBOOSHOOT with ID 4476.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_BOILEDEGG with ID 4477.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_SHAVEDICE with ID 4478.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_WINDCHIME with ID 4479.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_ITEMSACK with ID 4480.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_SNOWBALL with ID 4481.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_FAN with ID 4482.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_KATANA with ID 4483.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_BAMBOOBOW with ID 4484.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_TUDURA with ID 4485.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_WINDMILL with ID 4486.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_WATERWHEEL with ID 4487.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_ITEMBAMBOO with ID 4488.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_KAGINAWA with ID 4489.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_BAMBOOSWORD with ID 4490.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_OBON with ID 4491.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_MAGATAMA with ID 4492.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_STRAW with ID 4493.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_SEEDRICE with ID 4494.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material BAMBOOMOD_RAWRICE with ID 4495.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOOTBAGS_ITEMLOOTBAG with ID 4496.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SANDFROM with ID 4497.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_PATES with ID 4498.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_NOIXDECOCOOUVERTE with ID 4499.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CREPECARAM with ID 4500.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_COLINCUIT with ID 4501.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CHILI with ID 4502.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_PIZZA with ID 4503.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_BACONCUIT with ID 4504.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CHORIZO with ID 4505.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_BARCUIT with ID 4506.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CREPESUCRE with ID 4507.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CHEVALCRU with ID 4508.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SOLECRUE with ID 4509.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_ALGUES with ID 4510.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_STEAKTARTARE with ID 4511.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SALADEFRUITS with ID 4512.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_FROMAGE with ID 4513.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SOUPELEGUMES with ID 4514.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CHOCOPIM with ID 4515.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SUSHI with ID 4516.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_PIMENT with ID 4517.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_JUSCAROTTE with ID 4518.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_GLACEBANANE with ID 4519.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SANDJAMB with ID 4520.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_GLACEPOMME with ID 4521.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_PAINCHOCO with ID 4522.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_NOIXDECOCO with ID 4523.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CUPCAKE with ID 4524.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CREPEFROM with ID 4525.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_POISSONORCRU with ID 4526.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_TARTETATIN with ID 4527.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_BOLCHOCO with ID 4528.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_GLACECARAMEL with ID 4529.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CHOCOLAT with ID 4530.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_VERRE with ID 4531.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CREPECHOCO with ID 4532.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CHOCOCHAUD with ID 4533.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_VIN with ID 4534.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_BARCRU with ID 4535.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_BISCUITCHIEN with ID 4536.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_BACONCRU with ID 4537.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_GLACECOCO with ID 4538.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SEAUFROMAGE with ID 4539.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_JUSPOMME with ID 4540.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_GATEAUFAIM with ID 4541.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SANDBACON with ID 4542.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_RHUM with ID 4543.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SANDPOUL with ID 4544.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_TRUITECRUE with ID 4545.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_FISHSOUP with ID 4546.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_JUSMELON with ID 4547.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_RAGOUTALGUES with ID 4548.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_OEUFDUR with ID 4549.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_GLACEMELON with ID 4550.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_PATEPOULET with ID 4551.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_POMMEDAMOUR with ID 4552.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_GATEAUCHOCO with ID 4553.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_RAISIN with ID 4554.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_GLACECHOCO with ID 4555.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_JUSCOCO with ID 4556.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_THE with ID 4557.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CITROUILSOUP with ID 4558.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SEEDPIMENT with ID 4559.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_BANANE with ID 4560.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SANDPOISS with ID 4561.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_ZOMBIEPURE with ID 4562.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_GLACERAISIN with ID 4563.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CACTUSOUP with ID 4564.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CALAMARCRU with ID 4565.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_COLINCRU with ID 4566.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_MILKSHAKECHOCO with ID 4567.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CREPE with ID 4568.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CARAMEL with ID 4569.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CALAMARCUIT with ID 4570.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_MOUTONCUIT with ID 4571.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_JUSCACTUS with ID 4572.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_JUSRAISIN with ID 4573.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CIDRE with ID 4574.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_POISSONORCUIT with ID 4575.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_FORTUNECOOKIE with ID 4576.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_TRANCHE with ID 4577.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_JUSBANANE with ID 4578.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_TRUITECUITE with ID 4579.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CUPCAKECHOCO with ID 4580.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_PORCARAMEL with ID 4581.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_MOUTONCRU with ID 4582.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_PATEPIMENT with ID 4583.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CHEVALCUIT with ID 4584.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_GATEAUCAROTTE with ID 4585.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_PUREE with ID 4586.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_SOLECUITE with ID 4587.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_CHEESECAKE with ID 4588.
+[12:59:23] [Server thread/INFO] [FML/]: Injected new Forge item material LOTSOFFOOD_PAPILLOTE with ID 4589.
+[12:59:24] [Server thread/INFO] [/]: Mapping loaded 13 packages, 9950 classes, 33878 fields, 68194 methods, flags 3ff6
+[12:59:24] [Server thread/INFO] [/]: Loaded inheritance map of 883 classes
+[12:59:25] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins\【禁止物品】BanItem.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.IllegalArgumentException: Plugin already initialized!
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:314) ~[SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:236) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugins(CraftServer.java:300) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at net.minecraft.world.storage.SaveHandler.initBukkitData(SaveHandler.java:438) [axc.class:?]
+	at net.minecraft.world.storage.SaveHandler.func_75757_d(SaveHandler.java:136) [axc.class:?]
+	at net.minecraft.world.World.<init>(World.java:369) [afn.class:?]
+	at net.minecraft.world.WorldServer.<init>(WorldServer.java:152) [mj.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:336) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:309) [lj.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:607) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.7.0_45]
+Caused by: java.lang.IllegalArgumentException: Plugin already initialized!
+	at org.bukkit.plugin.java.PluginClassLoader.initialize(PluginClassLoader.java:484) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPlugin.<init>(JavaPlugin.java:59) ~[JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at com.abcalvin.BanItem.PlayerListener.<init>(PlayerListener.java:19) ~[?:?]
+	at com.abcalvin.BanItem.main.<init>(main.java:20) ~[?:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_45]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.7.0_45]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.7.0_45]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.7.0_45]
+	at java.lang.Class.newInstance(Unknown Source) ~[?:1.7.0_45]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:203) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:143) ~[JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 11 more
+Caused by: java.lang.IllegalStateException: Initial initialization
+	at org.bukkit.plugin.java.PluginClassLoader.initialize(PluginClassLoader.java:487) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPlugin.<init>(JavaPlugin.java:59) ~[JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at com.abcalvin.BanItem.main.<init>(main.java:18) ~[?:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_45]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.7.0_45]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.7.0_45]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.7.0_45]
+	at java.lang.Class.newInstance(Unknown Source) ~[?:1.7.0_45]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:203) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:143) ~[JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 11 more
+[12:59:26] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[12:59:26] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Loading WorldEdit v5.5.8
+[12:59:26] [Server thread/INFO] [com.iCo6.iConomy/]: [iConomy] Loading iConomy v7.0
+[12:59:26] [Server thread/INFO] [com.jca2323.AutoPortForward.AutoPortForwardMain/]: [AutoPortForward] Loading AutoPortForward v4.0
+[12:59:26] [Server thread/INFO] [com.tigerhix.signs.Main/]: [TigerSigns] Loading TigerSigns v1.0.0
+[12:59:26] [Server thread/INFO] [org.yi.acru.bukkit.Lockette.Lockette/]: [Lockette] Loading Lockette v1.7.12
+[12:59:26] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Loading Vault v1.2.27-b349
+[12:59:26] [Server thread/INFO] [com.worldcretornica.plotme.PlotMe/]: [PlotMe] Loading PlotMe v0.13b
+[12:59:26] [Server thread/INFO] [com.gmail.nossr50.mcMMO/]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[12:59:26] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Loading TreeAssist v5.8.89
+[12:59:26] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Loading Essentials v2.12.2
+[12:59:26] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Loading QuickShop v4.4
+[12:59:26] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Loading EssentialsProtect v2.12.2
+[12:59:26] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Loading AuthMe v2.7.8
+[12:59:26] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+[12:59:26] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Loading EssentialsChat v2.12.2
+[12:59:26] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+[12:59:26] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Loading Residence v2.6.6.6
+[12:59:26] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Enabling Vault v1.2.27-b349
+[12:59:26] [Server thread/INFO] [Minecraft/]: [Vault][Economy] Essentials Economy found: Waiting
+[12:59:26] [Server thread/WARN] [Minecraft/]: iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[12:59:26] [Server thread/WARN] [Minecraft/]: if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[12:59:26] [Server thread/WARN] [Minecraft/]: it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[12:59:26] [Server thread/INFO] [Minecraft/]: [Vault][Economy] iConomy 6 found: Waiting
+[12:59:26] [Server thread/INFO] [Minecraft/]: [Vault][Permission] GroupManager found: Waiting
+[12:59:26] [Server thread/INFO] [Minecraft/]: [Vault][Permission] SuperPermissions loaded as backup permission system.
+[12:59:27] [Server thread/INFO] [Minecraft/]: [Vault][Chat] GroupManager found: Waiting
+[12:59:27] [Server thread/INFO] [Minecraft/]: [Vault] Enabled Version 1.2.27-b349
+[12:59:27] [Server thread/INFO] [com.worldcretornica.plotme.PlotMe/]: [PlotMe] Enabling PlotMe v0.13b
+[12:59:28] [Server thread/INFO] [Minecraft/]: §9[PlotMe] §r 0 plots loaded
+[12:59:28] [Server thread/INFO] [com.gmail.nossr50.mcMMO/]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[12:59:32] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@c197ef)
+[12:59:32] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@c197ef)
+[12:59:32] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@c197ef)
+[12:59:34] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[12:59:34] [Server thread/INFO] [/]: GroupManager - INFO - World Found: world
+[12:59:34] [Server thread/INFO] [/]: GroupManager - INFO - Superperms support enabled.
+[12:59:34] [Server thread/INFO] [/]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[12:59:34] [Server thread/INFO] [/]: GroupManager - INFO - Backups will be retained for 24 hours!
+[12:59:34] [Server thread/INFO] [/]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[12:59:34] [Server thread/INFO] [Minecraft/]: [Vault][Permission] GroupManager hooked.
+[12:59:34] [Server thread/INFO] [Minecraft/]: [Vault][Chat] GroupManager - Chat hooked.
+[12:59:34] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Enabling WorldEdit v5.5.8
+[12:59:35] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[12:59:35] [Server thread/INFO] [com.iCo6.iConomy/]: [iConomy] Enabling iConomy v7.0
+[12:59:35] [Server thread/INFO] [/]: [iConomy - April Fools] Enabled (44 ms)
+[12:59:35] [Server thread/INFO] [/]: [iConomy] Hello, I'm Nijikokun. Yes, this is an April Fools joke, but '/money top' was fixed! Enjoy :) - Rare Version!
+[12:59:35] [Server thread/INFO] [Minecraft/]: [Vault][Economy] iConomy 7 hooked.
+[12:59:35] [Thread-11/INFO] [/]: [iConomy - April Fools] Purged accounts with default balance.
+[12:59:35] [Server thread/INFO] [com.jca2323.AutoPortForward.AutoPortForwardMain/]: [AutoPortForward] Enabling AutoPortForward v4.0
+[12:59:35] [Server thread/INFO] [Minecraft/]: [AutoPortForward] AutoPortForward by jca2323 version 1.4 loaded
+[12:59:35] [Server thread/INFO] [Minecraft/]: [AutoPortForward] Forwarding port: 25565
+[12:59:42] [Server thread/INFO] [Minecraft/]: [AutoPortForward] Attempting to use device: TE41
+[12:59:42] [Server thread/INFO] [Minecraft/]: [AutoPortForward] Attempting to forward port..
+[12:59:42] [Server thread/INFO] [Minecraft/]: [AutoPortForward] Minecraft server port forwarded on port:  25565
+[12:59:42] [Server thread/INFO] [com.tigerhix.signs.Main/]: [TigerSigns] Enabling TigerSigns v1.0.0
+[12:59:42] [Server thread/INFO] [org.yi.acru.bukkit.Lockette.Lockette/]: [Lockette] Enabling Lockette v1.7.12
+[12:59:42] [Server thread/INFO] [Minecraft/]: [Lockette] Version 1.7.12 is being enabled!  Yay!  (Core version 1.3.7)
+[12:59:42] [Server thread/WARN] [Minecraft/]: [Lockette] Craftbukkit build unrecognized, please be sure you have build [2771] or greater.
+[12:59:42] [Server thread/INFO] [Minecraft/]: [Lockette] Custom lockable block list: [116, 84, 57, 145, 154]
+[12:59:42] [Server thread/INFO] [Minecraft/]: [Lockette] Ignoring linked plugins: [mcMMO]
+[12:59:42] [Server thread/INFO] [Minecraft/]: [Lockette] Loading strings file for English by Acru
+[12:59:42] [Server thread/INFO] [Minecraft/]: [Lockette] Enabled link to plugin GroupManager for Groups, version 2.0 (2.12.1) (Phoenix)
+[12:59:42] [Server thread/INFO] [Minecraft/]: [Lockette] Enabled link to plugin mcMMO for Groups, version 1.5.00-b3547
+[12:59:42] [Server thread/INFO] [Minecraft/]: [Lockette] Using ops file for admin permissions.
+[12:59:42] [Server thread/INFO] [Minecraft/]: [Lockette] Ready to protect your containers.
+[12:59:42] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Enabling TreeAssist v5.8.89
+[12:59:42] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] debugging: off
+[12:59:42] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Enabling Essentials v2.12.2
+[12:59:42] [Server thread/INFO] [Minecraft/]: Bukkit version format changed. Version not checked.
+[12:59:42] [Server thread/INFO] [Minecraft/]: git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98 (MC: 1.7.2)
+[12:59:42] [Server thread/INFO] [Minecraft/]: 1.7.2-R0.4-SNAPSHOT
+[12:59:43] [Server thread/INFO] [Minecraft/]: Using locale zh
+[12:59:43] [Server thread/INFO] [Minecraft/]: Using locale zh
+[12:59:43] [Server thread/INFO] [Minecraft/]: [Vault][Economy] Essentials Economy hooked.
+[12:59:43] [Server thread/INFO] [Minecraft/]: Essentials: Using GroupManager based permissions.
+[12:59:43] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Payment method found (Vault - Economy: iConomy 7 version: 1.2.27-b349)
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Enabling QuickShop v4.4
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Hooking Vault
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Starting item scheduler
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Limit cfg found...
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Limits.use: true
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] {quickshop.vip=60, quickshop=0}
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Loading shops from database...
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Loaded 0 shops.
+[12:59:43] [Server thread/INFO] [/]: Cleaning purchase messages from database that are over a week old...
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Registering Listeners
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Metrics started.
+[12:59:43] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] QuickShop loaded!
+[12:59:43] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+[12:59:43] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Enabling AuthMe v2.7.8
+[12:59:43] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Loading Configuration File...
+[12:59:43] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Merge new Config Options if needed..
+[12:59:43] [Server thread/INFO] [Minecraft/]: [AuthMe] Set Language: en
+[12:59:44] [Server thread/INFO] [Minecraft/]: [AuthMe] Authme 2.7.8 enabled
+[12:59:44] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+[12:59:44] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Enabling EssentialsChat v2.12.2
+[12:59:44] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+[12:59:44] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Enabling Residence v2.6.6.6
+[12:59:44] [Server thread/INFO] [Minecraft/]: [Residence] Found Vault using permissions plugin:GroupManager
+[12:59:44] [Server thread/INFO] [/]: [Residence] Failed to update language file: Chinese.yml
+[12:59:44] [Server thread/INFO] [/]: [Residence] Failed to update language file: Brazilian.yml
+[12:59:44] [Server thread/INFO] [/]: [Residence] Scanning for economy systems...
+[12:59:44] [Server thread/INFO] [/]: [Residence] Found Vault using economy system: iConomy 7
+[12:59:44] [Server thread/INFO] [Minecraft/]: [Residence] Found WorldEdit
+[12:59:44] [Server thread/INFO] [Minecraft/]: [Residence] Enabled! Version 2.6.6.6 by bekvon
+[12:59:44] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[12:59:45] [Server thread/INFO] [/]: GroupManager - INFO - Bukkit Permissions Updated!
+[12:59:45] [Server thread/INFO] [/SlashBlade]: LMMを検知しませんでした
+[12:59:45] [Server thread/WARN] [/SlashBlade]: java.lang.InstantiationException
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.entity.EntityList.func_75620_a(EntityList.java:121)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at mods.flammpfeil.slashblade.ConfigEntityListManager.onWorldTickEvent(ConfigEntityListManager.java:69)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_7_ConfigEntityListManager_onWorldTickEvent_WorldTickEvent.invoke(.dynamic)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:51)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:122)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:268)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:891)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:432)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:783)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:646)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at java.lang.Thread.run(Unknown Source)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: java.lang.NoSuchMethodException: naruto1310.extendedWorkbench.item.EntityExtendedFishHook.<init>(net.minecraft.world.World)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at java.lang.Class.getConstructor0(Unknown Source)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at java.lang.Class.getConstructor(Unknown Source)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.entity.EntityList.func_75620_a(EntityList.java:121)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at mods.flammpfeil.slashblade.ConfigEntityListManager.onWorldTickEvent(ConfigEntityListManager.java:69)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_7_ConfigEntityListManager_onWorldTickEvent_WorldTickEvent.invoke(.dynamic)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:51)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:122)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:268)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:891)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:432)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:783)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:646)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at java.lang.Thread.run(Unknown Source)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: java.lang.InstantiationException
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.entity.EntityList.func_75620_a(EntityList.java:121)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at mods.flammpfeil.slashblade.ConfigEntityListManager.onWorldTickEvent(ConfigEntityListManager.java:69)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_7_ConfigEntityListManager_onWorldTickEvent_WorldTickEvent.invoke(.dynamic)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:51)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:122)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at cpw.mods.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:268)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:891)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:432)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:783)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:646)
+[12:59:45] [Server thread/WARN] [/SlashBlade]: 	at java.lang.Thread.run(Unknown Source)
+[13:09:09] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[13:09:09] [Netty IO #3/INFO] [FML/]: Client attempting to join with 33 mods : DynamicLights_dropItems@1.0.7,AS_UpdateCheck@1.1.5,ArmorStatusHUD@1.23(1.7.2),DynamicLights_flameArrows@1.0.0,DynamicLights_onFire@1.0.4,inventorytweaks@1.58-147-645ca10,craftSaddle@1.72.0.3,DynamicLights_mobEquipment@1.0.5,mcp@9.03,FML@7.2.217.1147,NotEnoughItems@1.0.2.34,customnpcs@1.7.2-2,MouseTweaks@2.4.3,DynamicLights_otherPlayers@1.0.7,extendedWorkbench@1.2.0.3,DamageIndicatorsMod@3.1.1,flammpfeil.slashblade@mc1.7.10 r15,InputFix@1.7.2-v5,lootbags@1.2.0,DynamicLights_creepers@1.0.4,Scenter@1.7.2-3.1.0,DynamicLights_thePlayer@1.1.3,DynamicLights_floodLights@1.0.1,IronChest@6.0.36.725,Forge@10.12.2.1147,CodeChickenCore@1.0.2.12,LotsOfFood@1.7.2,bspkrsCore@6.5(1.7.2),DynamicLights_entityClasses@1.0.1,DynamicLights@1.3.4,craftguide@1.6.8.1,BambooMod@Minecraft1.7.2 ver2.6.4.8,flammpfeil.slashblade.asm@mc1.7.10 r15
+[13:09:09] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[13:09:09] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[13:09:27] [Server thread/INFO] [Minecraft/]: [AuthMe] §2ying§r logged in!
+[13:09:34] [pool-4-thread-1/INFO] [/]: GroupManager - INFO -  Data files refreshed.
+[13:21:42] [Server thread/INFO] [/]: [Server] What The Fuck xzx
+[13:21:56] [Server thread/INFO] [/]: [Server] 傻逼xzx
+[13:22:34] [Server thread/INFO] [/]: CONSOLE: Stopping the server..
+[13:22:34] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Disabling Residence v2.6.6.6
+[13:22:34] [Server thread/INFO] [Minecraft/]: [Residence] Disabled!
+[13:22:34] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+[13:22:34] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Disabling EssentialsChat v2.12.2
+[13:22:34] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+[13:22:34] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Disabling AuthMe v2.7.8
+[13:22:34] [Server thread/INFO] [Minecraft/]: [AuthMe] Authme 2.7.8 disabled
+[13:22:34] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+[13:22:34] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Disabling QuickShop v4.4
+[13:22:34] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Disabling Essentials v2.12.2
+[13:22:34] [Server thread/INFO] [Minecraft/]: [Vault][Economy] Essentials Economy unhooked.
+[13:22:34] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Disabling TreeAssist v5.8.89
+[13:22:34] [Server thread/INFO] [com.gmail.nossr50.mcMMO/]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[13:22:34] [Server thread/INFO] [Minecraft/]: [Lockette] Disabled link to plugin mcMMO, version 1.5.00-b3547
+[13:22:48] [Server thread/INFO] [com.worldcretornica.plotme.PlotMe/]: [PlotMe] Disabling PlotMe v0.13b
+[13:22:48] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Disabling Vault v1.2.27-b349
+[13:22:48] [Server thread/INFO] [org.yi.acru.bukkit.Lockette.Lockette/]: [Lockette] Disabling Lockette v1.7.12
+[13:22:48] [Server thread/INFO] [Minecraft/]: Lockette is being disabled...  ;.;
+[13:22:48] [Server thread/INFO] [Minecraft/]: [Lockette] Closing all automatic doors.
+[13:22:48] [Server thread/INFO] [com.tigerhix.signs.Main/]: [TigerSigns] Disabling TigerSigns v1.0.0
+[13:22:48] [Server thread/INFO] [com.jca2323.AutoPortForward.AutoPortForwardMain/]: [AutoPortForward] Disabling AutoPortForward v4.0
+[13:22:48] [Server thread/INFO] [Minecraft/]: [AutoPortForward] AutoPortForward disabled. Removing port mapping
+[13:22:49] [Server thread/INFO] [Minecraft/]: [AutoPortForward] Done. 
+[13:22:49] [Server thread/INFO] [Minecraft/]: [AutoPortForward] AutoPortForward disabled.
+[13:22:49] [Server thread/INFO] [com.iCo6.iConomy/]: [iConomy] Disabling iConomy v7.0
+[13:22:49] [Server thread/INFO] [/]: [iConomy] Closing general data...
+[13:22:49] [Server thread/INFO] [/]: [iConomy] Disabled. (0 ms)
+[13:22:49] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Disabling WorldEdit v5.5.8
+[13:22:49] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
+[13:22:49] [Server thread/INFO] [/]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[13:22:49] [Server thread/INFO] [/]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
+[13:22:49] [Server thread/INFO] [FML/]: Unloading dimension 0
+[13:22:49] [Server thread/INFO] [FML/]: Unloading dimension -1
+[13:22:49] [Server thread/INFO] [FML/]: Applying holder lookups
+[13:22:49] [Server thread/INFO] [FML/]: Holder lookups applied

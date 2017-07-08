@@ -1,2 +1,2 @@
 #!/bin/sh
-nohup java -Xmx1024M -Xms1024M -jar ./mcpc-plus-1.7.2-R0.4-forge1029-B44.jar &
+nohup java -Xmx1024M -Xms1024M -jar ./cauldron-1.7.2-1.1147.04.98-server.jar &
